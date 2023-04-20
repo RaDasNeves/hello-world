@@ -1,2 +1,3 @@
 # hello-world
 Uma breve descrição
+Comno pode a faculdade me cobrar uma atividade de Git se nem ao menos me deu aula sobre Git? Que mancada Unicesumar, que mancada....
